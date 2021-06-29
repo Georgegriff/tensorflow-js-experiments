@@ -1,0 +1,5 @@
+node_modules
+.vscode
+t10k*
+train-labels
+train-images
